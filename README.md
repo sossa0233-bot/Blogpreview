@@ -14,7 +14,7 @@ Uses semantic HTML elements
 
 Styled with modern CSS (flexbox, shadows, fonts)
 
-🛠️ Technologies Used
+ Technologies Used
 
 HTML5
 
